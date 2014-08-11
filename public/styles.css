@@ -1,0 +1,19 @@
+/*Navbar Color Override*/
+.navbar-default {
+
+    background-image: -webkit-linear-gradient(right, #ffc342 0%, #dfdfdf 45%, #dfdfdf 60%, #c8c7ff 100%);
+    background-image: -moz-linear-gradient(right, #ffe0f4 0%, #dfdfdf 60%, #c8c7ff 100%);
+    background-image: linear-gradient(right, #ffe0f4 0%, #dfdfdf 60%, #c8c7ff 100%);
+    font-family: 'Poiret One', cursive;
+    font-size: 1.2em;
+}
+
+#construction {
+    background-image: -webkit-linear-gradient(right, #ffe0f4 0%, #dfdfdf 60%, #c8c7ff 100%);
+    background-image: -moz-linear-gradient(right, #ffe0f4 0%, #dfdfdf 60%, #c8c7ff 100%);
+    background-image: linear-gradient(right, #ffe0f4 0%, #dfdfdf 60%, #c8c7ff 100%);    
+
+    font-family: 'Poiret One', cursive;
+    font-size: 1.2em;
+}
+
